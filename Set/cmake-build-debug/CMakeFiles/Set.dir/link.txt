@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Set.dir/main.cpp.o CMakeFiles/Set.dir/Set.cc.o CMakeFiles/Set.dir/SetBareArrays.cc.o  -o Set 

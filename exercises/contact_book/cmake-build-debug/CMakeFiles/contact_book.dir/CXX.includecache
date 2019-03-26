@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ivanasen/Code/Projects/oop-homework/contact_book/Contact.hh
+string
+-
+
+/home/ivanasen/Code/Projects/oop-homework/contact_book/ContactBook.hh
+map
+-
+vector
+-
+Contact.hh
+/home/ivanasen/Code/Projects/oop-homework/contact_book/Contact.hh
+
+/home/ivanasen/Code/Projects/oop-homework/contact_book/main.cpp
+iostream
+-
+Contact.hh
+/home/ivanasen/Code/Projects/oop-homework/contact_book/Contact.hh
+ContactBook.hh
+/home/ivanasen/Code/Projects/oop-homework/contact_book/ContactBook.hh
+
