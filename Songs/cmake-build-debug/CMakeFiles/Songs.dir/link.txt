@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Songs.dir/main.cpp.o CMakeFiles/Songs.dir/Song.cc.o CMakeFiles/Songs.dir/Album.cc.o  -o Songs 

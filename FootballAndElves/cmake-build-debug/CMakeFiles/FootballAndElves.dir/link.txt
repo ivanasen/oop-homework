@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/FootballAndElves.dir/main.cpp.o CMakeFiles/FootballAndElves.dir/Players/Player.cc.o CMakeFiles/FootballAndElves.dir/Players/Team.cc.o CMakeFiles/FootballAndElves.dir/MyStd/MyString.cc.o  -o FootballAndElves 

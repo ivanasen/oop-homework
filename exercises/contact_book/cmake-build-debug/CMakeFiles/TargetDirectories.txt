@@ -1,3 +1,0 @@
-/home/ivanasen/Code/Projects/oop-homework/contact_book/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ivanasen/Code/Projects/oop-homework/contact_book/cmake-build-debug/CMakeFiles/contact_book.dir
-/home/ivanasen/Code/Projects/oop-homework/contact_book/cmake-build-debug/CMakeFiles/edit_cache.dir

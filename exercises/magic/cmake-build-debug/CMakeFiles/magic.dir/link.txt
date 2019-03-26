@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/magic.dir/main.cpp.o CMakeFiles/magic.dir/Player.cc.o CMakeFiles/magic.dir/Card.cc.o CMakeFiles/magic.dir/Deck.cc.o CMakeFiles/magic.dir/Game.cc.o  -o magic 
