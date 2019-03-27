@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Exam.dir/group4_var2_fn81837_oop1.cpp.o  -o Exam 
