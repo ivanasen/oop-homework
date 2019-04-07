@@ -1,1 +1,1 @@
-# Homework repo for OOP course at FMI
+# Homework for OOP course at FMI
