@@ -123,6 +123,114 @@ exam2/fast:
 	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/build
 .PHONY : exam2/fast
 
+CountNumbers.o: CountNumbers.cpp.o
+
+.PHONY : CountNumbers.o
+
+# target to build an object file
+CountNumbers.cpp.o:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/CountNumbers.cpp.o
+.PHONY : CountNumbers.cpp.o
+
+CountNumbers.i: CountNumbers.cpp.i
+
+.PHONY : CountNumbers.i
+
+# target to preprocess a source file
+CountNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/CountNumbers.cpp.i
+.PHONY : CountNumbers.cpp.i
+
+CountNumbers.s: CountNumbers.cpp.s
+
+.PHONY : CountNumbers.s
+
+# target to generate assembly for a file
+CountNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/CountNumbers.cpp.s
+.PHONY : CountNumbers.cpp.s
+
+DivisibleBy.o: DivisibleBy.cpp.o
+
+.PHONY : DivisibleBy.o
+
+# target to build an object file
+DivisibleBy.cpp.o:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/DivisibleBy.cpp.o
+.PHONY : DivisibleBy.cpp.o
+
+DivisibleBy.i: DivisibleBy.cpp.i
+
+.PHONY : DivisibleBy.i
+
+# target to preprocess a source file
+DivisibleBy.cpp.i:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/DivisibleBy.cpp.i
+.PHONY : DivisibleBy.cpp.i
+
+DivisibleBy.s: DivisibleBy.cpp.s
+
+.PHONY : DivisibleBy.s
+
+# target to generate assembly for a file
+DivisibleBy.cpp.s:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/DivisibleBy.cpp.s
+.PHONY : DivisibleBy.cpp.s
+
+Properties.o: Properties.cpp.o
+
+.PHONY : Properties.o
+
+# target to build an object file
+Properties.cpp.o:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/Properties.cpp.o
+.PHONY : Properties.cpp.o
+
+Properties.i: Properties.cpp.i
+
+.PHONY : Properties.i
+
+# target to preprocess a source file
+Properties.cpp.i:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/Properties.cpp.i
+.PHONY : Properties.cpp.i
+
+Properties.s: Properties.cpp.s
+
+.PHONY : Properties.s
+
+# target to generate assembly for a file
+Properties.cpp.s:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/Properties.cpp.s
+.PHONY : Properties.cpp.s
+
+Property.o: Property.cpp.o
+
+.PHONY : Property.o
+
+# target to build an object file
+Property.cpp.o:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/Property.cpp.o
+.PHONY : Property.cpp.o
+
+Property.i: Property.cpp.i
+
+.PHONY : Property.i
+
+# target to preprocess a source file
+Property.cpp.i:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/Property.cpp.i
+.PHONY : Property.cpp.i
+
+Property.s: Property.cpp.s
+
+.PHONY : Property.s
+
+# target to generate assembly for a file
+Property.cpp.s:
+	$(MAKE) -f CMakeFiles/exam2.dir/build.make CMakeFiles/exam2.dir/Property.cpp.s
+.PHONY : Property.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +267,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... exam2"
 	@echo "... edit_cache"
+	@echo "... CountNumbers.o"
+	@echo "... CountNumbers.i"
+	@echo "... CountNumbers.s"
+	@echo "... DivisibleBy.o"
+	@echo "... DivisibleBy.i"
+	@echo "... DivisibleBy.s"
+	@echo "... Properties.o"
+	@echo "... Properties.i"
+	@echo "... Properties.s"
+	@echo "... Property.o"
+	@echo "... Property.i"
+	@echo "... Property.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -4,6 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/ivanasen/Code/Projects/oop-homework/src/exam2/CountNumbers.cpp" "/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles/exam2.dir/CountNumbers.cpp.o"
+  "/home/ivanasen/Code/Projects/oop-homework/src/exam2/DivisibleBy.cpp" "/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles/exam2.dir/DivisibleBy.cpp.o"
+  "/home/ivanasen/Code/Projects/oop-homework/src/exam2/Properties.cpp" "/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles/exam2.dir/Properties.cpp.o"
+  "/home/ivanasen/Code/Projects/oop-homework/src/exam2/Property.cpp" "/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles/exam2.dir/Property.cpp.o"
   "/home/ivanasen/Code/Projects/oop-homework/src/exam2/main.cpp" "/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles/exam2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

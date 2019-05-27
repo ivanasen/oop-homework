@@ -84,6 +84,33 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/CountNumbers.cpp">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/CountNumbers.h">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/DivisibleBy.cpp">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/DivisibleBy.h">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/Properties.cpp">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/Properties.h">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/Property.cpp">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/Property.h">
+			<Option target="exam2"/>
+		</Unit>
+		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/Triangle.h">
+			<Option target="exam2"/>
+		</Unit>
 		<Unit filename="/home/ivanasen/Code/Projects/oop-homework/src/exam2/main.cpp">
 			<Option target="exam2"/>
 		</Unit>

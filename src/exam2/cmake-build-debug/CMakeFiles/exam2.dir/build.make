@@ -70,17 +70,77 @@ CMakeFiles/exam2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exam2.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ivanasen/Code/Projects/oop-homework/src/exam2/main.cpp -o CMakeFiles/exam2.dir/main.cpp.s
 
+CMakeFiles/exam2.dir/Property.cpp.o: CMakeFiles/exam2.dir/flags.make
+CMakeFiles/exam2.dir/Property.cpp.o: ../Property.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/exam2.dir/Property.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exam2.dir/Property.cpp.o -c /home/ivanasen/Code/Projects/oop-homework/src/exam2/Property.cpp
+
+CMakeFiles/exam2.dir/Property.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exam2.dir/Property.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ivanasen/Code/Projects/oop-homework/src/exam2/Property.cpp > CMakeFiles/exam2.dir/Property.cpp.i
+
+CMakeFiles/exam2.dir/Property.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exam2.dir/Property.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ivanasen/Code/Projects/oop-homework/src/exam2/Property.cpp -o CMakeFiles/exam2.dir/Property.cpp.s
+
+CMakeFiles/exam2.dir/DivisibleBy.cpp.o: CMakeFiles/exam2.dir/flags.make
+CMakeFiles/exam2.dir/DivisibleBy.cpp.o: ../DivisibleBy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/exam2.dir/DivisibleBy.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exam2.dir/DivisibleBy.cpp.o -c /home/ivanasen/Code/Projects/oop-homework/src/exam2/DivisibleBy.cpp
+
+CMakeFiles/exam2.dir/DivisibleBy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exam2.dir/DivisibleBy.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ivanasen/Code/Projects/oop-homework/src/exam2/DivisibleBy.cpp > CMakeFiles/exam2.dir/DivisibleBy.cpp.i
+
+CMakeFiles/exam2.dir/DivisibleBy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exam2.dir/DivisibleBy.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ivanasen/Code/Projects/oop-homework/src/exam2/DivisibleBy.cpp -o CMakeFiles/exam2.dir/DivisibleBy.cpp.s
+
+CMakeFiles/exam2.dir/CountNumbers.cpp.o: CMakeFiles/exam2.dir/flags.make
+CMakeFiles/exam2.dir/CountNumbers.cpp.o: ../CountNumbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/exam2.dir/CountNumbers.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exam2.dir/CountNumbers.cpp.o -c /home/ivanasen/Code/Projects/oop-homework/src/exam2/CountNumbers.cpp
+
+CMakeFiles/exam2.dir/CountNumbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exam2.dir/CountNumbers.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ivanasen/Code/Projects/oop-homework/src/exam2/CountNumbers.cpp > CMakeFiles/exam2.dir/CountNumbers.cpp.i
+
+CMakeFiles/exam2.dir/CountNumbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exam2.dir/CountNumbers.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ivanasen/Code/Projects/oop-homework/src/exam2/CountNumbers.cpp -o CMakeFiles/exam2.dir/CountNumbers.cpp.s
+
+CMakeFiles/exam2.dir/Properties.cpp.o: CMakeFiles/exam2.dir/flags.make
+CMakeFiles/exam2.dir/Properties.cpp.o: ../Properties.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/exam2.dir/Properties.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/exam2.dir/Properties.cpp.o -c /home/ivanasen/Code/Projects/oop-homework/src/exam2/Properties.cpp
+
+CMakeFiles/exam2.dir/Properties.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/exam2.dir/Properties.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ivanasen/Code/Projects/oop-homework/src/exam2/Properties.cpp > CMakeFiles/exam2.dir/Properties.cpp.i
+
+CMakeFiles/exam2.dir/Properties.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/exam2.dir/Properties.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ivanasen/Code/Projects/oop-homework/src/exam2/Properties.cpp -o CMakeFiles/exam2.dir/Properties.cpp.s
+
 # Object files for target exam2
 exam2_OBJECTS = \
-"CMakeFiles/exam2.dir/main.cpp.o"
+"CMakeFiles/exam2.dir/main.cpp.o" \
+"CMakeFiles/exam2.dir/Property.cpp.o" \
+"CMakeFiles/exam2.dir/DivisibleBy.cpp.o" \
+"CMakeFiles/exam2.dir/CountNumbers.cpp.o" \
+"CMakeFiles/exam2.dir/Properties.cpp.o"
 
 # External object files for target exam2
 exam2_EXTERNAL_OBJECTS =
 
 exam2: CMakeFiles/exam2.dir/main.cpp.o
+exam2: CMakeFiles/exam2.dir/Property.cpp.o
+exam2: CMakeFiles/exam2.dir/DivisibleBy.cpp.o
+exam2: CMakeFiles/exam2.dir/CountNumbers.cpp.o
+exam2: CMakeFiles/exam2.dir/Properties.cpp.o
 exam2: CMakeFiles/exam2.dir/build.make
 exam2: CMakeFiles/exam2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable exam2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ivanasen/Code/Projects/oop-homework/src/exam2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable exam2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/exam2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

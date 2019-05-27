@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/exam2.dir/main.cpp.o  -o exam2 
+/usr/bin/c++  -g   CMakeFiles/exam2.dir/main.cpp.o CMakeFiles/exam2.dir/Property.cpp.o CMakeFiles/exam2.dir/DivisibleBy.cpp.o CMakeFiles/exam2.dir/CountNumbers.cpp.o CMakeFiles/exam2.dir/Properties.cpp.o  -o exam2 
