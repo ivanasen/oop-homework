@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ivanasen/Code/Projects/oop-homework/src/practice/ArithmeticProgression.h
+Sequence.h
+/home/ivanasen/Code/Projects/oop-homework/src/practice/Sequence.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/practice/ConstantSequence.h
+Sequence.h
+/home/ivanasen/Code/Projects/oop-homework/src/practice/Sequence.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/practice/Fibonacci.h
+Sequence.h
+/home/ivanasen/Code/Projects/oop-homework/src/practice/Sequence.h
+vector
+-
+
+/home/ivanasen/Code/Projects/oop-homework/src/practice/RunningAverage.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/practice/Sequence.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/practice/main.cpp
+iostream
+-
+RunningAverage.h
+/home/ivanasen/Code/Projects/oop-homework/src/practice/RunningAverage.h
+ConstantSequence.h
+/home/ivanasen/Code/Projects/oop-homework/src/practice/ConstantSequence.h
+ArithmeticProgression.h
+/home/ivanasen/Code/Projects/oop-homework/src/practice/ArithmeticProgression.h
+Fibonacci.h
+/home/ivanasen/Code/Projects/oop-homework/src/practice/Fibonacci.h
+
