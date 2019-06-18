@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/Cloneable.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/MapSet.h
+unordered_map
+-
+unordered_set
+-
+
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/MergeStream.cpp
+MergeStream.h
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/MergeStream.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/MergeStream.h
+Stream.h
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/Stream.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/Stream.h
+string
+-
+Cloneable.h
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/Cloneable.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/StringStream.h
+sstream
+-
+Stream.h
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/Stream.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/main.cpp
+iostream
+-
+MapSet.h
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/MapSet.h
+StringStream.h
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/StringStream.h
+MergeStream.h
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/MergeStream.h
+
