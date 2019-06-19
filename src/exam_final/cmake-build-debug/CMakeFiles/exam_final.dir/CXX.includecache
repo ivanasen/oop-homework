@@ -9,9 +9,7 @@
 /home/ivanasen/Code/Projects/oop-homework/src/exam_final/Cloneable.h
 
 /home/ivanasen/Code/Projects/oop-homework/src/exam_final/MapSet.h
-unordered_map
--
-unordered_set
+vector
 -
 
 /home/ivanasen/Code/Projects/oop-homework/src/exam_final/MergeStream.cpp
@@ -22,11 +20,21 @@ MergeStream.h
 Stream.h
 /home/ivanasen/Code/Projects/oop-homework/src/exam_final/Stream.h
 
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/Stream.cpp
+Stream.h
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/Stream.h
+
 /home/ivanasen/Code/Projects/oop-homework/src/exam_final/Stream.h
 string
 -
 Cloneable.h
 /home/ivanasen/Code/Projects/oop-homework/src/exam_final/Cloneable.h
+
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/StringStream.cpp
+utility
+-
+StringStream.h
+/home/ivanasen/Code/Projects/oop-homework/src/exam_final/StringStream.h
 
 /home/ivanasen/Code/Projects/oop-homework/src/exam_final/StringStream.h
 sstream
